@@ -9,7 +9,7 @@
 
 - Jupyter notebooks used in training and inference
 - Best model weights for Detection using FasterRCNN - check in drive
-https://drive.google.com/drive/folders/1-F4Ykr-aHdIr6bty_qvTv2AbXhhMr0DT?usp=drive_link
+https://drive.google.com/drive/folders/1y6xjPdtdxBVT8rB1KZQmI_HfzTS7STba?usp=drive_link
 File name: pothole_rcnn_best.pth
 - Flask API code using the best Faster RCNN model
 
@@ -23,8 +23,8 @@ File name: pothole_rcnn_best.pth
 
 **Artefacts shared:**
 - Jupyter notebooks used in training and inference
-- Best model weights for segmentation using Mask RCNN - check in drive
-https://drive.google.com/drive/folders/1sueathybGg7vm_8W9CnbdfNIODNRrmMV?usp=drive_link
+- Best model weights for segmentation using Mask RCNN - check in project drive
+https://drive.google.com/drive/folders/1rVXmm5NJ2XbBK8WESVxeBWU2-uTb-nTI?usp=drive_link
 File name: pothole_rcnn_best.pth
 - Flask API code using the best YOLO model
 
