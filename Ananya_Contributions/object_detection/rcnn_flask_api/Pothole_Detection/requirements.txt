@@ -1,0 +1,12 @@
+numpy
+torch
+torchvision
+pybase64
+bbox-utils
+Flask
+Pillow
+gunicorn
+flask-cors
+flask-limiter
+flask-restful
+

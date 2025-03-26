@@ -1,0 +1,11 @@
+numpy
+opencv-python
+ultralytics
+pybase64
+Flask
+Pillow
+gunicorn
+flask-cors
+flask-limiter
+flask-restful
+
