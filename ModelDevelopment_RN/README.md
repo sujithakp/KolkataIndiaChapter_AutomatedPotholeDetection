@@ -27,6 +27,8 @@
 > I proposed to do PWA for deploying to smart devices for both the variations of web app and mob app - eventually this will be in pipeline to develop/enhance the application
 
 #### Below are screenshots of the artefacts I developed during the model training phase with the YOLO11:
+![home_page](https://github.com/OmdenaAI/KolkataIndiaChapter_AutomatedPotholeDetection/blob/main/ModelDevelopment_RN/InstanceSegmentation_Dev6/mAP_Values_SegDevelopment.png)
+
 ![home_page](https://github.com/OmdenaAI/KolkataIndiaChapter_AutomatedPotholeDetection/blob/main/ModelDevelopment_RN/InstanceSegmentation_Dev6/results.png)
 
 #### 1.1 Validation batch during the model development that shows the class name assigned during the annotation:
