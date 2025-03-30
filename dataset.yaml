@@ -1,0 +1,7 @@
+
+train: /kaggle/working/yolo_dataset/train/images
+val: /kaggle/working/yolo_dataset/valid/images
+test: /kaggle/working/yolo_dataset/test/images
+
+nc: 1  # Number of classes (porthole detection)
+names: ['porthole']
